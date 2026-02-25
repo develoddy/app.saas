@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp_saas=self.webpackChunkapp_saas||[]).push([[76],{3982:(n,e,p)=>{p.d(e,{i:()=>o});const o={INBOX_ZERO:{LANDING:"inbox-zero-prevention",WIZARD:"inbox-zero-prevention-wizard",LIVE:"inbox-zero-prevention",CONCEPT:"inbox-zero-prevention"},PRODUCTCLIP:{WIZARD:"productclip",LIVE:"productclip",CONCEPT:"productclip"}}}}]);
